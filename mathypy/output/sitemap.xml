@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://mathandpython.adammichaelwood.com/</loc>
+  <lastmod>2017-12-07T05:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://mathandpython.adammichaelwood.com/archive.html</loc>
+  <lastmod>2017-12-07T05:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://mathandpython.adammichaelwood.com/blog/numbers-in-python-also-mathy-types/</loc>
+  <lastmod>2017-12-07T05:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://mathandpython.adammichaelwood.com/categories/</loc>
+  <lastmod>2017-12-07T05:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://mathandpython.adammichaelwood.com/galleries/</loc>
+  <lastmod>2017-12-07T05:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://mathandpython.adammichaelwood.com/listings/</loc>
+  <lastmod>2017-12-07T05:18:00Z</lastmod>
+ </url>
+</urlset>
